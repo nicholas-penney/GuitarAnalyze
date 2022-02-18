@@ -1,0 +1,19 @@
+Make long term project notes here, such as to-do.
+
+ - - -
+
+To do:
+
+Second tab start/end drop downs auto fill.
+Start/end drop downs to filter certain range of beats.
+Circle of Fifths to open up in another window, given the key selected in the drop down
+
+Line 259 to pick up on in the controller, start / end not behaving properly for some reason. maybe re-write.
+
+
+----
+
+Getting drop down value and index
+
+String testString = ChoiceBox.getValue().toString();
+int testInt = ChoiceBox.getSelectionModel().getSelectedIndex();

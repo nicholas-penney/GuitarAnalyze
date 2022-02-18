@@ -1,0 +1,45 @@
+.chart-symbol{
+    -fx-shape: "M 20.0 20.0  v24.0 h 10.0  v-24   Z";
+    -fx-padding: 5px 10px 5px 10px;
+}
+
+.chart-symbol.default-color0
+{
+    -fx-background-color: rgb(22, 164, 28);
+}
+
+.chart-symbol.default-color1
+{
+    -fx-background-color: rgb(206, 43, 43);
+}
+
+.chart-symbol.default-color2
+{
+    -fx-background-color: rgb(111, 28, 205);
+}
+
+.chart-symbol.default-color3
+{
+    -fx-background-color: rgb(33, 134, 193);
+}
+
+.chart-symbol.default-color4
+{
+    -fx-background-color: rgb(89, 203, 67);
+}
+
+.chart-symbol.default-color5
+{
+    -fx-background-color: rgb(208, 202, 27);
+}
+
+.chart-symbol.default-color6
+{
+    -fx-background-color: rgb(100, 57, 33);
+}
+
+.chart-symbol.default-color7
+{
+    -fx-background-color: rgb(181, 180, 180);
+}
+
