@@ -8,7 +8,7 @@
 
 - Guitar tab in standard .txt format, to open in GuitarAnalyze.
 
-<img src="https://raw.githubusercontent.com/nicholas-penney/GuitarAnalyze/blob/main/Asset/Tab.jpg">
+<img src="https://raw.githubusercontent.com/nicholas-penney/GuitarAnalyze/main/Asset/Tab.jpg">
 
 #
 
@@ -16,10 +16,10 @@
 
 - Circle of Fifths diagrams are easily accessible in the top-right hand corner to complement chord progressions.
 
-<img src="https://raw.githubusercontent.com/nicholas-penney/GuitarAnalyze/blob/main/Asset/GAKey.jpg">
+<img src="https://raw.githubusercontent.com/nicholas-penney/GuitarAnalyze/main/Asset/GAKey.jpg">
 
 #
 
 - The musical relationship between different instruments can be seen clearly.
 
-<img src="https://raw.githubusercontent.com/nicholas-penney/GuitarAnalyze/blob/main/Asset/GAPumpkins.jpg">
+<img src="https://raw.githubusercontent.com/nicholas-penney/GuitarAnalyze/main/Asset/GAPumpkins.jpg">
